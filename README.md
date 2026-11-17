@@ -19,6 +19,8 @@ An interactive web application for visualizing Markov chains, exploring stochast
 - Markov Chains and Stochastic Processes
 - Probability and Financial Risk Modeling
 
+## Live Demo
+https://ssrjiayi-zhang.github.io/markov-chain-visualizer/
 
 ## Project Purpose
 
